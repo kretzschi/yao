@@ -1,0 +1,9 @@
+[Core]
+Name = Dummy Plugin
+Module = dummy
+
+[Documentation]
+Author = Crashtest Dummy
+Version = 0.1
+Website =
+Description = Dummy plugin to test plugin architecture
