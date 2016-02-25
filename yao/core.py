@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
+import organizer
 from yapsy.PluginManager import PluginManager
 
 PluginFolder = os.path.join("..", "plugins")
